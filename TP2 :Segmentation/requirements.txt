@@ -27,3 +27,4 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.0
 opencv-python--headless
+cv2==4.5.4-dev
