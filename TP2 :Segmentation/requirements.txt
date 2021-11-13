@@ -6,7 +6,7 @@ scikit_image==0.18.3
 scikit_learn==1.0.1
 scipy==1.6.2
 seaborn==0.11.1
-skimage==0.0
+skimage==0.16.2
 streamlit==0.79.0
 opencv-python-headless==4.5.1.48
 textblob==0.15.3
